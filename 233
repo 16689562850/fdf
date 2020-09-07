@@ -15,9 +15,6 @@
          
         $ git clone [url]
 
-二、配置
-
- 
 
 Git的设置文件为.gitconfig，它可以在用户主目录下（全局配置），也可以在项目目录下（项目配置）。
 
@@ -42,10 +39,6 @@ Git的设置文件为.gitconfig，它可以在用户主目录下（全局配置�
          
         $ git config [--global] user.email "[email address]"
 
-三、增加/删除文件
-
-         
-         
          
         # 添加指定文件到暂存区
          
